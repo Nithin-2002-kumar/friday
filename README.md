@@ -1,4 +1,4 @@
-# 🤖 Jarvis Assistant
+# 🤖 Friday Assistant
 
 A smart **voice-controlled desktop assistant** built with Python — featuring speech recognition, text-to-speech, GUI interface, system control, task management, and email integration.
 
